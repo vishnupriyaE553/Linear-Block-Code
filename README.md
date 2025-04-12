@@ -106,6 +106,7 @@ calculation:
 ![image](https://github.com/user-attachments/assets/0e4e91f8-0548-4c81-8428-7775b2e9aa59)
 ![image](https://github.com/user-attachments/assets/e93d384e-9f31-40fb-b6ee-77b6e042ae35)
 ![image](https://github.com/user-attachments/assets/1569b7ca-d8c5-4baa-b1f4-d2b824536a84)
+
 ![image](https://github.com/user-attachments/assets/ed85d702-cc29-4429-ac04-6c0bdaf0cfb0)
 
 
