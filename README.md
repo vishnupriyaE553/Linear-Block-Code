@@ -1,8 +1,10 @@
 # Linear-Block-Code
 AIM :
+
 To Perform linear Block code operation for the given input
 
 TOOLS REQUIRED :
+
 Python IDE with Numpy and Scipy
 
 PROGRAM:
@@ -111,4 +113,5 @@ calculation:
 
 
 Result :
+
 Thus,Linear Block Code for the Given input is successfully verified.
